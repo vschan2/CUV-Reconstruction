@@ -34,4 +34,5 @@ CUVReconstruction headsq 7 butterfly-my 0 3 0
 *For more information, please visit [this conference proceeding](https://doi.org/10.119/GAME47560.2019.8980511) or its [ResearchGate](https://www.researchgate.net/publication/339096910_Using_Modified_Butterfly_Interpolation_Scheme_for_Hole-filling_in_3D_Data_Reconstruction) counterpart.*
 
 The ultrasound dataset used in this project is provided by [Cardia Atlas Project](http://www.cardiacatlas.org/challenges/motion-tracking-challenge/).
-For more information about the dataset, please visit [Benchmarking framework for myocardial tracking and deformation algorithms: An open access database](https://www.sciencedirect.com/science/article/pii/S1361841513000388?via%3Dihub).
+
+*For more information about the dataset, please visit [Benchmarking framework for myocardial tracking and deformation algorithms: An open access database](https://www.sciencedirect.com/science/article/pii/S1361841513000388?via%3Dihub).*
