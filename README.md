@@ -1,4 +1,4 @@
-# HeadCT-Reconstruction
+# CUV-Reconstruction
 This example shows the 3D cardiac ultrasound reconstruction using various hole-filling methods of pixel nearest-neighbour (PNN).
 
 Firstly, the program reads a volume dataset, and removes a whole slice at position n.
