@@ -13,14 +13,14 @@ Then, the hole-filling method is employed to reconstruct the missing region.
 ## How to run this example?
 1) Using CMake to create this project. The procedure is the same as any VTK projects.
 2) Build the project using Visual Studio. A new "Debug" folder will be created.
-3) Put the volume dataset file (headsq) in the "Debug" folder.
+3) Put the volume dataset file (vtk01) in the "Debug" folder.
 4) Open command prompt and navigate to the "Debug" folder.
 5) Run `CUVReconstruction *outputDatasetName(string) *sliceNo(int) *method(string) *parameter(int, float)`
    
    e.g.:
 ```
-CUVReconstruction headsq 7 mean 3 
-CUVReconstruction headsq 7 butterfly-my 0 3 0
+CUVReconstruction vtk01 7 mean 3 
+CUVReconstruction vtk01 7 butterfly-my 0 3 0
 ```
 6) Then, input the number of continuous slice to remove.
 7) Input the sparsity value.
